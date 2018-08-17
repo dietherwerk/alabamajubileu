@@ -1,0 +1,22 @@
+<urlset xmlns="https://www.alabamajubileu.com/sitemap.xml">
+    <url>
+        <loc>https://www.alabamajubileu.com</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.alabamajubileu.com/#theband</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.alabamajubileu.com/#schedule</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.alabamajubileu.com/#media</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.alabamajubileu.com/#contact</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
